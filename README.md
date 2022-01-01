@@ -1,4 +1,4 @@
-# Vibes 🐬
+# Vibes
 
 ###### Based on Daegu.
 
