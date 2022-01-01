@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.naver.com/seak1m" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/seak1m" target="_blank"><img src="https://img.shields.io/badge/BLOG-1EC800?style=flat-square&logo=Blogger&logoColor=FFFFFF"/></a> <a href="https://www.instagram.com/_jolrv/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
